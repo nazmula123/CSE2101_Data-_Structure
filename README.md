@@ -1,1 +1,6 @@
-# CSE2101 Data_Structure
+#Arrays Data Structure
+#Linked List Data Structure
+#Searching Data Structure
+#Sorting Data Structure
+#Stack Data Structure
+#Queue Data Structure
