@@ -1,6 +1,6 @@
-#Arrays Data Structure\n
-#Linked List Data Structure\n
-#Searching Data Structure\n
-#Sorting Data Structure\n
-#Stack Data Structure\n
-#Queue Data Structure
+-Arrays Data Structure
+-Linked List Data Structure
+-Searching Data Structure
+-Sorting Data Structure
+-Stack Data Structure
+-Queue Data Structure
