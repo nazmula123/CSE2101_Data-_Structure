@@ -14,7 +14,7 @@ void print(struct Node*head){
     }
     cout<<"NULL"<<endl;
 }
-struct Node*vdelete(struct Node*head,int value){
+struct Node*delete(struct Node*head,int value){
 
 struct Node*current=(struct Node*)malloc(sizeof(struct Node));
 current->next=head;
@@ -48,7 +48,7 @@ c->next=d;
 d->next=NULL;
 print(a);
 struct Node*newDelete;
-newDelete=vdelete(a,36);
+newDelete=delete(a,36);
 print(newDelete);
 return 0;
 }
