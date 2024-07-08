@@ -35,7 +35,7 @@ void insert(int item) {
         head = newNode;
     }
 }
-void insert_end(int pos,int item){
+void insert_at_given_position(int pos,int item){
 struct node*ptr=head;
 struct node*newNode=getNode(item);
 struct node*temp=NULL;
@@ -60,7 +60,7 @@ int main() {
    insert(21);
    insert(12);
    insert(47);
-  insert_end(2,89);
+ insert_at_given_position(2,89);
     traverse();
     return 0;
 }
