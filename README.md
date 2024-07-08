@@ -1,6 +1,1 @@
-#Arrays Data Structure.
-#Linked List Data Structure.
-#Searching Data Structure.
-#Sorting Data Structure.
-#Stack Data Structure.
-#Queue Data Structure.
+### Hi there 👋, my name is Arturs
