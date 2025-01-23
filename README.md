@@ -4,3 +4,5 @@
 ##### Sorting Data Structure
 ##### Stack Data Structure
 ##### Queue Data Structure
+##### Hassing
+##### Tree Data Stucture
